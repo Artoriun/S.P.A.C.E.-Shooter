@@ -1,7 +1,7 @@
 # S.P.A.C.E. SHOOTER
 
 ## Demo Video
-https://github.com/user-attachments/assets/2854d87e-1af7-4665-b022-fa39ef071a55
+https://github.com/user-attachments/assets/2be93816-6226-4a29-853e-a3a63e63dbbf
 
 ## Brief single-paragraph description
 -------------------------------
